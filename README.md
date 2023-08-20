@@ -1,1 +1,1 @@
-overwite the master boot record
+overwrite the master boot record
