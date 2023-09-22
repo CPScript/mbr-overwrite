@@ -1,1 +1,1 @@
-overwrite the master boot record
+python script to overwrite the master boot record
